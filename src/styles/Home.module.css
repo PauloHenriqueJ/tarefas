@@ -1,7 +1,7 @@
 .container{
     background-color:#0F0F0F ;
     width: 100%;
-    height: calc(100vh -76px); /* diminuir o tamanho da tela - o header* tira a barra de rolagem/
+    height: calc(100vh -76px); /* diminuir o tamanho da tela - o header* tira a barra de rolagem*/
     display: flex;
     justify-content: center;
     align-items: center;
